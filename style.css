@@ -1,3 +1,9 @@
+html {
+
+  background: url(https://previews.123rf.com/images/fotoslaz/fotoslaz1505/fotoslaz150500003/40290080-open-air-hot-spring-spa-on-natural-background-in-sunset-time.jpg) no-repeat center fixed; 
+  background-size: cover;
+}
+
 body {
     color: rgb(64, 64, 64);
     text-align: center;
